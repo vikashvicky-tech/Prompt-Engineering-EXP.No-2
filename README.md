@@ -269,6 +269,9 @@ Prompt engineering plays a crucial role in improving the quality of AI-generated
 
 
 RESULT:
+
+
+
 after testing four prompting techniques (**Zero-shot, Few-shot, Chain-of-Thought, and Role-based**) across multiple AI platforms such as **ChatGPT, Gemini, and Microsoft Copilot**, the outputs were evaluated using the following criteria:
 
 - Accuracy  
